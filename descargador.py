@@ -32,6 +32,8 @@ def obtener_link():
 
 def obtener_extension(link_archivo):
     '''Simple codigo para obtener la extension del sheets'''
-    indice_extension = link_archivo.find('.')
+    indice_extension = link_archivo.find('.xl')
+    print(link_archivo)
+    print(indice_extension)
 
-    return link_archivo[ indice_extension + 1 ]
+    return link_archivo[ indice_extension + 1 : ]
