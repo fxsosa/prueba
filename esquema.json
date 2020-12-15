@@ -1,0 +1,542 @@
+{
+	"Filial1" : {
+			"carrera1" : {
+					 "materia1" : {
+							  "clases" : {
+									"Dia1" : {
+											"FechaInicio" : "12/12/12",
+											"HoraInicio" : "16:00",				
+											"HoraFin" : "17:00",
+											"Clase" : "F10"
+										},
+									"Dia2" : {
+											"FechaInicio" : "12/12/12",
+											"HoraInicio" : "16:00",				
+											"HoraFin" : "17:00",
+											"Clase" : "Virtual(Moodle)"
+										}
+								  },
+							"Evaluaciones" : {
+										"Parcial1" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Parcial2" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Final1" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Final2" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											}
+									},
+							"Profesor" : {
+									"Nombre" : "Juan Lugo",
+									"Apellido" : "Lopez Perez",
+									"Correo" : "juan777@gmail.com",
+									"Numero" : "0981233455"
+							},
+							"Seccion" : "TQ",
+							"Dpto" : "DCB",
+							"Virtual" : {
+									"Plataforma" : "Moodle",
+									"Contraseña" : "1234567"
+							}
+					 },
+					 "materia2" : {
+							  "clases" : {
+									"Dia1" : {
+											"FechaInicio" : "12/12/12",
+											"HoraInicio" : "16:00",				
+											"HoraFin" : "17:00",
+											"Clase" : "F10"
+										},
+									"Dia2" : {
+											"FechaInicio" : "12/12/12",
+											"HoraInicio" : "16:00",				
+											"HoraFin" : "17:00",
+											"Clase" : "Virtual(Moodle)"
+										}
+								  },
+							"Evaluaciones" : {
+										"Parcial1" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Parcial2" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Final1" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Final2" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											}
+									},
+							"Profesor" : {
+									"Nombre" : "Juan Lugo",
+									"Apellido" : "Lopez Perez",
+									"Correo" : "juan777@gmail.com",
+									"Numero" : "0981233455"
+							},
+							"Seccion" : "TQ",
+							"Dpto" : "DCB",
+							"Virtual" : {
+									"Plataforma" : "Moodle",
+									"Contraseña" : "1234567"
+							}
+					 }
+			},
+			"carrera2" : {
+					 "materia1" : {
+							  "clases" : {
+									"Dia1" : {
+											"FechaInicio" : "12/12/12",
+											"HoraInicio" : "16:00",				
+											"HoraFin" : "17:00",
+											"Clase" : "F10"
+										},
+									"Dia2" : {
+											"FechaInicio" : "12/12/12",
+											"HoraInicio" : "16:00",				
+											"HoraFin" : "17:00",
+											"Clase" : "Virtual(Moodle)"
+										}
+								  },
+							"Evaluaciones" : {
+										"Parcial1" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Parcial2" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Final1" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Final2" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											}
+									},
+							"Profesor" : {
+									"Nombre" : "Juan Lugo",
+									"Apellido" : "Lopez Perez",
+									"Correo" : "juan777@gmail.com",
+									"Numero" : "0981233455"
+							},
+							"Seccion" : "TQ",
+							"Dpto" : "DCB",
+							"Virtual" : {
+									"Plataforma" : "Moodle",
+									"Contraseña" : "1234567"
+							}
+					 },
+					 "materia2" : {
+							  "clases" : {
+									"Dia1" : {
+											"FechaInicio" : "12/12/12",
+											"HoraInicio" : "16:00",				
+											"HoraFin" : "17:00",
+											"Clase" : "F10"
+										},
+									"Dia2" : {
+											"FechaInicio" : "12/12/12",
+											"HoraInicio" : "16:00",				
+											"HoraFin" : "17:00",
+											"Clase" : "Virtual(Moodle)"
+										}
+								  },
+							"Evaluaciones" : {
+										"Parcial1" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Parcial2" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Final1" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Final2" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											}
+									},
+							"Profesor" : {
+									"Nombre" : "Juan Lugo",
+									"Apellido" : "Lopez Perez",
+									"Correo" : "juan777@gmail.com",
+									"Numero" : "0981233455"
+							},
+							"Seccion" : "TQ",
+							"Dpto" : "DCB",
+							"Virtual" : {
+									"Plataforma" : "Moodle",
+									"Contraseña" : "1234567"
+							}
+					 }
+			}
+	},
+	"Filial2" : {
+			"carrera1" : {
+					 "materia1" : {
+							  "clases" : {
+									"Dia1" : {
+											"FechaInicio" : "12/12/12",
+											"HoraInicio" : "16:00",				
+											"HoraFin" : "17:00",
+											"Clase" : "F10"
+										},
+									"Dia2" : {
+											"FechaInicio" : "12/12/12",
+											"HoraInicio" : "16:00",				
+											"HoraFin" : "17:00",
+											"Clase" : "Virtual(Moodle)"
+										}
+								  },
+							"Evaluaciones" : {
+										"Parcial1" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Parcial2" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Final1" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Final2" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											}
+									},
+							"Profesor" : {
+									"Nombre" : "Juan Lugo",
+									"Apellido" : "Lopez Perez",
+									"Correo" : "juan777@gmail.com",
+									"Numero" : "0981233455"
+							},
+							"Seccion" : "TQ",
+							"Dpto" : "DCB",
+							"Virtual" : {
+									"Plataforma" : "Moodle",
+									"Contraseña" : "1234567"
+							}
+					 },
+					 "materia2" : {
+							  "clases" : {
+									"Dia1" : {
+											"FechaInicio" : "12/12/12",
+											"HoraInicio" : "16:00",				
+											"HoraFin" : "17:00",
+											"Clase" : "F10"
+										},
+									"Dia2" : {
+											"FechaInicio" : "12/12/12",
+											"HoraInicio" : "16:00",				
+											"HoraFin" : "17:00",
+											"Clase" : "Virtual(Moodle)"
+										}
+								  },
+							"Evaluaciones" : {
+										"Parcial1" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Parcial2" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Final1" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Final2" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											}
+									},
+							"Profesor" : {
+									"Nombre" : "Juan Lugo",
+									"Apellido" : "Lopez Perez",
+									"Correo" : "juan777@gmail.com",
+									"Numero" : "0981233455"
+							},
+							"Seccion" : "TQ",
+							"Dpto" : "DCB",
+							"Virtual" : {
+									"Plataforma" : "Moodle",
+									"Contraseña" : "1234567"
+							}
+					 }
+			},
+			"carrera2" : {
+					 "materia1" : {
+							  "clases" : {
+									"Dia1" : {
+											"FechaInicio" : "12/12/12",
+											"HoraInicio" : "16:00",				
+											"HoraFin" : "17:00",
+											"Clase" : "F10"
+										},
+									"Dia2" : {
+											"FechaInicio" : "12/12/12",
+											"HoraInicio" : "16:00",				
+											"HoraFin" : "17:00",
+											"Clase" : "Virtual(Moodle)"
+										}
+								  },
+							"Evaluaciones" : {
+										"Parcial1" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Parcial2" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Final1" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Final2" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											}
+									},
+							"Profesor" : {
+									"Nombre" : "Juan Lugo",
+									"Apellido" : "Lopez Perez",
+									"Correo" : "juan777@gmail.com",
+									"Numero" : "0981233455"
+							},
+							"Seccion" : "TQ",
+							"Dpto" : "DCB",
+							"Virtual" : {
+									"Plataforma" : "Moodle",
+									"Contraseña" : "1234567"
+							}
+					 },
+					 "materia2" : {
+							  "clases" : {
+									"Dia1" : {
+											"FechaInicio" : "12/12/12",
+											"HoraInicio" : "16:00",				
+											"HoraFin" : "17:00",
+											"Clase" : "F10"
+										},
+									"Dia2" : {
+											"FechaInicio" : "12/12/12",
+											"HoraInicio" : "16:00",				
+											"HoraFin" : "17:00",
+											"Clase" : "Virtual(Moodle)"
+										}
+								  },
+							"Evaluaciones" : {
+										"Parcial1" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Parcial2" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Final1" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											},
+										"Final2" : {
+												"Fecha" : "12/12/12",
+												"HoraInicio" : "17:00",
+												"Clase" : "Virtual(Moodle)",
+												"Revision" : {
+														"Fecha" : "13/12/12",
+														"Hora" : "13:00"
+													}
+											}
+									},
+							"Profesor" : {
+									"Nombre" : "Juan Lugo",
+									"Apellido" : "Lopez Perez",
+									"Correo" : "juan777@gmail.com",
+									"Numero" : "0981233455"
+							},
+							"Seccion" : "TQ",
+							"Dpto" : "DCB",
+							"Virtual" : {
+									"Plataforma" : "Moodle",
+									"Contraseña" : "1234567"
+							}
+					 }
+			}
+	}
+}
