@@ -3,5 +3,4 @@
 #Contiene el codigo para descargar la tabla de la poli
 import descargador
 
-descargador.descargaHorario()
-
+descargador.obtener_horario()
